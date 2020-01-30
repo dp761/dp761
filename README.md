@@ -2,11 +2,12 @@
 
 ![Self](Images/Self.jpg "Dheemant Palan")
 
-![Like](images/Like.jfif "Anime")
+![Like](Images/Like.jfif "Anime")
 
 ## Where are you from?
 
-From the Mumbai,Maharashtra,India.Right now residing at Douglas (15 mins away from campus)
+From Mumbai<--Maharashtra<--India.
+Right now residing at Douglas,Chicago,Illinois (15 mins away from IIT campus)
 
 ## IT Interest
 
