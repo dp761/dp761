@@ -2,7 +2,7 @@
 
 ![Self](Images/Self.jpg "Dheemant Palan")
 
-![Like](Images/Like.jfif "Anime")
+![Like](Images/Like.jpg "Anime")
 
 ## Where are you from?
 
