@@ -1,5 +1,3 @@
-# dpalan
-
 # Dheemant Palan
 
 ![Self](Images/Self.jpg "Dheemant Palan")
