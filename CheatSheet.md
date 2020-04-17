@@ -70,3 +70,5 @@ git push <REMOTENAME> --delete <BRANCHNAME>
 
 #### Pull from a remote branch
 git pull <REMOTENAME> <BRANCHNAME>
+
+![Basic Command](Images/cmd.png "Basic Command")
