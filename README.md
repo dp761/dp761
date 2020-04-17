@@ -2,7 +2,7 @@
 
 ![Self](Images/Self.jpg "Dheemant Palan")
 
-![Like](Images/Like.jpg "Anime")
+
 
 ## Where are you from?
 
@@ -22,3 +22,7 @@ If manga can be considered as books than I read lot of books.
 ## Git-IT Tutorial Badge
 
 ![Git Tutorial](Images/badge.png "Result")
+
+## Likes -Anime
+![Like](Images/Like.jpg "Anime")
+![Like](Images/Trek.jpg "Trek")
