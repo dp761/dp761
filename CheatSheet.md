@@ -1,5 +1,8 @@
 # Git CheatSheet
 
+
+![Git CheatSheet](Images/0.jpg "Git CheatSheet")
+
 #### Make a new folder (aka make directory)
 mkdir <FOLDERNAME>
 
