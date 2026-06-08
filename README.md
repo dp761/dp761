@@ -57,6 +57,6 @@ Automated job search pipeline I built for my own search — scrapes 8 job boards
 
 If you're building something at the intersection of data, operations, or enterprise software and need a PM who can go deep — I'd like to hear about it.
 
-📧 pdheemant@gmail.com
+📧 dheemant.r.palan@gmail.com
 🔗 [linkedin.com/in/dp761](https://linkedin.com/in/dp761)
 📍 Atlanta, GA
